@@ -1,4 +1,4 @@
-### 🏋️‍♂️ Projeto 4: GymManager API (Academia)
+### GymManager API (Academia)
 
 **Cenário:** Controle de alunos, planos e cálculo de saúde simples.
 **Desafio de Lógica:** Cálculo Matemático e Categorização.
